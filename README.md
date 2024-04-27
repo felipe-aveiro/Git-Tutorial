@@ -1,2 +1,2 @@
 # GitHub-Tutorial
-A tutorial that could prove useful in later uses!
+A tutorial that could prove useful for later uses!
