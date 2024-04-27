@@ -1,0 +1,10 @@
+git init							Initialize a new repository
+git add .							Add current files to next commit
+git status							Check current git repository status
+git commit -m "commit's message"				Create a new commit with a message
+git push							Sends updates to the cloud in the currently active branch
+git branch							Allows you to list and see which branch is currently active
+git checkout branch name					Allows you to switch to a new branch
+git checkout -b "source branch name" "new branch name"		Allows you to change and create a new branch based on another
+git merge "branch receiving merge"				Allows you to merge the currently active branch with another branch
+git pull							Updates the currently active branch
