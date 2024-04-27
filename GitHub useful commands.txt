@@ -2,6 +2,7 @@ git init							Initialize a new repository
 git add .							Add current files to next commit
 git status							Check current git repository status
 git commit -m "commit's message"				Create a new commit with a message
+git remote add origin repository URL				Configures the destination for the push function
 git push							Sends updates to the cloud in the currently active branch
 git branch							Allows you to list and see which branch is currently active
 git checkout branch name					Allows you to switch to a new branch
